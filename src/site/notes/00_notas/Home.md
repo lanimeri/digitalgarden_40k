@@ -10,7 +10,10 @@ Creada por Miriam Ruiz Linuesa.
 ---
 
 La [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/00_premisa/idea\|idea de la trama]] plantea investigación con momentos para la acción y el horror cósmico en un mundo moralmente gris.
-Conoce la [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/00_premisa/sinopsis_gm\|sinopsis_gm]].
+Conoce la [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/00_premisa/sinopsis_gm\|Sinopsis para el GM]] para entender la premisa de esta aventura.
+
+### La trama
+La mejor forma de entender la historia de _Susurros en la Disformidad_ es a través de su [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/01_trama/01_timeline/timeline\|Línea Temporal]].
 ### Sesiones y sus escenas:
 
 ```ad-check
