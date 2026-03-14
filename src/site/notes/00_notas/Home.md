@@ -3,11 +3,14 @@
 ---
 
 # Campaña - [[03_recursos/Ecos del Pasado\|Ecos del Pasado]]
+
 Campaña RPG homebrew para el sistema de rol de Wrath and Glory que se ambienta en el universo grimdark de Warhammer 40.000. 
 Creada por Miriam Ruiz Linuesa. 
-## Aventura - [[Susurros en la Disformidad\|Susurros en la Disformidad]]
+## Aventura - [[03_recursos/Susurros en la Disformidad\|Susurros en la Disformidad]]
 ---
-Conoce la [[00_campanya/00_premisa/sinopsis_gm\|sinopsis_gm]].
+
+La [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/00_premisa/idea\|idea de la trama]] plantea investigación con momentos para la acción y el horror cósmico en un mundo moralmente gris.
+Conoce la [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/00_premisa/sinopsis_gm\|sinopsis_gm]].
 ### Sesiones y sus escenas:
 
 ```ad-check

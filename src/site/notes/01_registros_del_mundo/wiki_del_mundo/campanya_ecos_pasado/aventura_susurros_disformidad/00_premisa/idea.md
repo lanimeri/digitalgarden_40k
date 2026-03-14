@@ -5,7 +5,7 @@
 # Plantilla - Idea de la trama 
 
 ## Resumen 
-La aventura [[Susurros en la Disformidad\|Susurros en la Disformidad]] se ha creado pensada para ser una trama de investigación con momentos para la acción y el horror cósmico en un mundo moralmente gris.
+La aventura [[03_recursos/Susurros en la Disformidad\|Susurros en la Disformidad]] se ha creado pensada para ser una trama de investigación con momentos para la acción y el horror cósmico en un mundo moralmente gris.
 
 - **Género**: Grimdark y Ciencia Ficción.
 - **Tono**: Acción y misterio.
