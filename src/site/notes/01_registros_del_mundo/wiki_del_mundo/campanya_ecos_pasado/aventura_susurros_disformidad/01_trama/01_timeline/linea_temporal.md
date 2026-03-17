@@ -19,7 +19,7 @@ Los lugares más relevantes son el [[bastión\|bastión]] manufacturero del plan
 ## Elementos de la Línea Temporal 
 
 ### Épocas:
-Aunque la extensión de los eventos de la campaña [[03_recursos/Ecos del Pasado\|Ecos del Pasado]] ocupan desde el milenio 30, en la [[Era Dorada de la Tecnología\|Era Dorada de la Tecnología]], hasta el actual milenio 40; la aventura, [[03_recursos/Susurros en la Disformidad\|Susurros en la Disformidad]] tiene lugar en el milenio 40
+Aunque la extensión de los eventos de la campaña [[Ecos del Pasado\|Ecos del Pasado]] ocupan desde el milenio 30, en la [[Era Dorada de la Tecnología\|Era Dorada de la Tecnología]], hasta el actual milenio 40; la aventura, [[Susurros en la Disformidad\|Susurros en la Disformidad]] tiene lugar en el milenio 40
 
 ---
 ## Trasfondo 
