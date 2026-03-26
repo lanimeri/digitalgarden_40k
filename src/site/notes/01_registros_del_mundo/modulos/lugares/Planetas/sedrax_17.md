@@ -49,7 +49,7 @@ Placeholder
 
 ## Trasfondo 
 
-El Trasfondo completo de Sedrax-17 puede leerse en la [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/01_trama/01_timeline/linea_temporal\|Línea Temporal]] de la aventura.
+El Trasfondo completo de Sedrax-17 puede leerse en la [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/01_timeline/linea_temporal\|Línea Temporal]] de la aventura.
 
 ## Detalles Adicionales 
 

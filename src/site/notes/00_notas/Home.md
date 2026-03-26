@@ -13,7 +13,7 @@ La [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurro
 Conoce la [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/00_premisa/sinopsis_gm\|Sinopsis para el GM]] para entender la premisa de esta aventura.
 
 ### La trama
-La mejor forma de entender la historia de _Susurros en la Disformidad_ es a través de su [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/01_trama/01_timeline/linea_temporal\|Línea Temporal]].
+La mejor forma de entender la historia de _Susurros en la Disformidad_ es a través de su [[01_registros_del_mundo/wiki_del_mundo/campanya_ecos_pasado/aventura_susurros_disformidad/01_timeline/linea_temporal\|Línea Temporal]].
 ### Sesiones y sus escenas:
 
 ```ad-check
@@ -39,7 +39,7 @@ La mejor forma de entender la historia de _Susurros en la Disformidad_ es a trav
 ### Personajes Jugadores
 ...
 ### Personajes No Jugadores
-![[00_BASE NPC.base\|00_BASE NPC.base]]
+![[00_base_npc.base]]
 
 ## Lugares
 ---
